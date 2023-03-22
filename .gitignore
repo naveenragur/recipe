@@ -3,4 +3,4 @@
 # ignore compiled python 3 files
 __pycache__
 #ignore unknown format
-.xxx
+*.xxx
